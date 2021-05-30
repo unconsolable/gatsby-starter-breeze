@@ -3,6 +3,7 @@ title: c语言参数压栈顺序
 description: x86-64下c语言参数压栈顺序
 tags:
   - CSAPP
+noComments: true
 ---
 
 ## c语言参数压栈顺序
