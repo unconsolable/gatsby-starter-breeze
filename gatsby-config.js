@@ -19,7 +19,7 @@ module.exports = {
     sidebarMenu: [
       { url: "/archive/", label: "归档" },
       { url: "/tags/", label: "标签" },
-      { url: "/about", label: "关于" },
+      { url: "/about", label: "About" },
     ],
     footerHTML: `Blog Theme: © 2020 <a href="https://github.com/keithnull">Keith Null</a> All rights reserved.`,
     dateFormat: `YYYY-MM-DD`,
