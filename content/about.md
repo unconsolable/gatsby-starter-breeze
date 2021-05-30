@@ -1,6 +1,7 @@
 ---
 title: About
 slug: "/about/"
+date: "2021-05-30"
 layout: page
 description: 关于 Gatsby Starter Breeze，清风朗月的简单介绍
 tags:
